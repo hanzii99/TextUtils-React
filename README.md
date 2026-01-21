@@ -1,2 +1,3 @@
 # TextUtils-React
- this is my third try...
+ A React-based text utility web application for formatting, analyzing, and transforming text.
+
